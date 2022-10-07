@@ -33,5 +33,6 @@ public class Main {
 
         System.out.println(gazelle.equals(giraffe));
         System.out.println(gazelle.equals(horse));
+
     }
 }
